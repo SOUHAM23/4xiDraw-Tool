@@ -1,5 +1,9 @@
 # **🤖 4xiDraw H-Bot Pen Plotter**
 
+# **The 4xiDraw Extensions for Inkscape - Software to drive the 4xiDraw drawing machine.**
+
+# **More about 4xiDraw:https://www.instructables.com/4xiDraw/ **
+
 ## **🌟 Project Overview**
 
 The **4xiDraw** is an open-source, DIY pen plotter/drawing machine inspired by the commercial AxiDraw. It utilizes an **H-Bot** kinematic configuration with a single belt and two stepper motors to achieve smooth, precise movement across a large drawing area.
