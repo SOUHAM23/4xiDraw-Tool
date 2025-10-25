@@ -41,7 +41,7 @@ The majority of the structural parts are designed to be **3D-printed** (STL file
 | :---- | :---- | :---- | :---- |
 | 4 | 8mm Smooth Rods | Two 400mm, Two 320mm | 📏 |
 | 8 | LM8UU Linear Bearings | For smooth rod movement | 🛹 |
-| 10 | F623ZZ Bearings | Flanged bearings for belt guidance | 🌀 |
+| 10 | 6223ZZ Bearings | Flanged bearings for belt guidance | 🌀 |
 | 2 | M10 Threaded Rods | 400mm long each, for frame support | 🏗️ |
 | 8 | M10 Nuts | To fix the M10 threaded rods | 🌰 |
 | 2 | Carbon Fiber Tubes | 4mm OD, 100mm long (for vertical carriage) | 🥢 |
