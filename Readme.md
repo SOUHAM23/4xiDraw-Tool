@@ -1,8 +1,8 @@
 # **🤖 4xiDraw H-Bot Pen Plotter**
 
-# **The 4xiDraw Extensions for Inkscape - Software to drive the 4xiDraw drawing machine.**
+The 4xiDraw Extensions for Inkscape - Software to drive the 4xiDraw drawing machine.
 
-# **More about 4xiDraw:https://www.instructables.com/4xiDraw/ **
+More about 4xiDraw:https://www.instructables.com/4xiDraw/
 
 ## **🌟 Project Overview**
 
